@@ -1,0 +1,5 @@
+config:
+  azure-native:location: westeurope
+  A9_wi22b004:diskSize: "1024"
+  A9_wi22b004:diskSku: Premium_LRS
+  A9_wi22b004:attachDisks: "true"
